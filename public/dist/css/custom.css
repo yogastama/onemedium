@@ -1,0 +1,38 @@
+.page-wrapper {
+    margin-left: 0 !important;
+    padding-top: 0 !important;
+}
+
+#navbarSupportedContent {
+    margin-left: 0 !important;
+}
+
+.navigation-bottom {
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(225, 233, 231);
+}
+
+.navigation-bottom .child-active a {
+    color: #000;
+    font-weight: bold;
+}
+
+.link-nav-bottom {
+    color: rgb(150, 148, 148);
+}
+
+.icon-account {
+    font-size: 60px;
+}
+
+.link-list-account {
+    width: 100%;
+}
+
+.image-social-media {
+    height: 50px;
+}
